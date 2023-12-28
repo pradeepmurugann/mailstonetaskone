@@ -1,0 +1,142 @@
+
+.top{
+    background-color: blueviolet;
+   
+    margin: 50px;
+    padding: 20px;
+}
+span,p{
+    display: inline;
+}
+#one{
+    margin-left: 50%;
+}
+h1{
+    display: inline;
+    list-style: none;
+    color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    display: inline;
+    list-style: none;
+
+    
+}
+ul{
+    display: inline;
+    margin-left: 60%;
+   word-spacing: 10px;
+}
+.head{
+    background-color: white;
+    margin-left: 50px;
+}
+.header{
+    border: 2px solid;
+    margin: 20px;
+    padding: 20px;
+}
+.header >h2,p{
+    margin-left: 50px;
+}
+.headerone{
+    display: inline;
+
+    margin-left: 70%;
+
+}
+.bodyone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.photo{
+    width: 500px;
+    height: 400px;
+    /* margin: 20px; */
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+img{
+    width: 300px;
+}
+.bodytwo{
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+}
+.mal2{
+    display: inline;
+}
+.mal2 > h5{
+    background-color: blue;
+}
+.mal1{
+    margin-left: 70px;
+}
+.others{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.one{
+    width: 800px;
+    padding: 30px;
+}
+.lol{
+    width: 50px;
+}
+.check{
+    text-align: center;
+}
+table{
+    margin-top: 20px;
+}
+.baby{
+    display: flex;
+    margin-top: 50px;
+}
+.btn{
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: aqua;
+}
+.blog{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20%;
+    margin-left: 30%;
+    border: 2px solid;
+    background-color: aqua;
+    padding: 20px;
+}
+.blog > button{
+    background-color: aqua;
+    margin-top: 50px;
+}
+.endpoint{
+    display: flex;
+    margin-top: 50px;
+    border: 2px solid;
+}
+.end{
+    display: flex;
+    border: 2px solid;
+}
+.endimg{
+    margin-left: 70%;
+    padding-top: 20px;
+}
+.endpo{
+    width: 20px;
+}
